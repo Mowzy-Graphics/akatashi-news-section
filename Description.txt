@@ -1,13 +1,15 @@
-Après de très longs mois de travail sur cette
-nouvelle saison d'Akatashi, je vous propose d'enfin
-jouer sur nos plateformes !
+Voici bientôt plus d'une semaine que
+l'équipe travaille d'arrache-pied pour 
+ouvrrir à nouveau le serveur survies après une
+première ouverture un petit peu chaotique
 
-Découvrez la nouvelle économie, plus poussée que jamais,
-Le nouveau modpack, mieux développé que sur n'importe quelle
-autre saison. Un nouveau design de menu, de nouvelles 
-méchaniques de jeu, des quêtes, des contracts.
+D'ici quelques jours, vous aurez une nouvelle date
+de lancement. Ainsi qu'un nouveau modpack mis à jour.
 
-On vous réserve encore bien des surprises pour quand vous 
-vous serrez bien installés sur la map Freebuild.
+Nous avons réussi à corriger de nombreux bugs, 
+mettre en place des fonctionnalités qui n'étaient pas
+disponibles au premier lancement et à continuer d'avancer
+sur des features qui seront ajoutées au fur et à mesure
+des updates.
 
-En attendant que le tout arrive, profitez bien de votre survie.
+Hâte de commencer l'aventure à vos côtés !
