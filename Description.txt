@@ -1,15 +1,14 @@
-Voici bientôt plus d'une semaine que
-l'équipe travaille d'arrache-pied pour 
-ouvrrir à nouveau le serveur survies après une
-première ouverture un petit peu chaotique
+Enfin !
 
-D'ici quelques jours, vous aurez une nouvelle date
-de lancement. Ainsi qu'un nouveau modpack mis à jour.
+L'ouverture d'Akatashi est officielle !
+On a ouvert le serveur ce 29 Juillet 2023,
+avec un pic de connectés à 16 joueurs.
 
-Nous avons réussi à corriger de nombreux bugs, 
-mettre en place des fonctionnalités qui n'étaient pas
-disponibles au premier lancement et à continuer d'avancer
-sur des features qui seront ajoutées au fur et à mesure
-des updates.
+On attends vos retours sur cette saison dans
+les tikets.
 
-Hâte de commencer l'aventure à vos côtés !
+Si vous avez des idées pour améliorer le comfort 
+de jeu ou même des idées de features, vous pouvez
+les partager dans #vos-idées.
+
+À Bientôt sur Akatashi !
