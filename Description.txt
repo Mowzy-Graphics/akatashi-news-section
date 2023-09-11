@@ -1,10 +1,11 @@
-Annoncée pour le Vendredi 29 Septembre cette mise à jour
-vous permettra d'avoir une nouvelle oportunité
-d'acquérir des akats et de les dépenser !
+Une maintenance du serveur prendra place le Mardi 19 Septembre, 
+elle va durer de 10H à 17H, à l'issue de cette maintenance, 
+une mise à jour du modpack sera à faire.
 
-En plus de l'arrivée de nouvelles arènes à mobs, 
-il y aura plein de nouvelles surprises pour enrichir le gameplay 
-sur le serveur.
+Si la maintenance est réussie, le serveur passera en 1.19.2 
+(soyez sans crainte, vous ne perdrez absolument rien dans votre avancée)
+Un tour du serveur sera fait pour vérifier qu'il n'y a pas de dégâts 
+sur vos chunks claim.
 
-Hâte de vous retrouver pour l'arrivée 
-de cette mise à jour :D !
+La maintenance est longue car il y a beaucoup de travail à fournir 
+de mon côté et beaucoup de vérifications à faire.
